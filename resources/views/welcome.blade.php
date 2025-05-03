@@ -207,93 +207,74 @@
  </div>
 
 
- <section class="th-service-10 overflow-hidden space" id="service-sec" data-bg-src="assets/img/bg/service-10-bg.jpg">
+ <div class="award-2-wrapper space bg-smoke2" id="service-sec">
      <div class="container">
          <div class="row justify-content-center">
-             <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8">
-                 <div class="title-area text-center"><span class="sub-title justify-content-center">What We Do</span>
-                     <h2 class="sec-title">Legal Services We Offer</h2></div>
+             <div class="col-xl-7">
+                 <div class="title-area mb-55 text-center"><span class="sub-title before-none">What We Do</span>
+                     <h2 class="sec-title">Law Services We Offer</h2></div>
              </div>
          </div>
-         <div class="service-10-wrapper">
-             <div class="row gy-30 justify-content-center">
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_1.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_1.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Criminal Law</a>
-                             </h3>
-                             <p class="box-text">Defense representations for more various criminal charges.
-                                 Investigations and evidence analysis. Bail applications and.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
+         <div class="award-2-wrapper">
+             <div class="award-item">
+                 <div class="award-bg"><img src="assets/img/award/award-2-1-bg.jpg" alt=""></div>
+                 <div class="row gx-0 align-items-center z-index-2">
+                     <div class="col-xxl-5 col-xl-4 col-lg-4 order-1 order-lg-0">
+                         <div class="award-title-box d-lg-flex align-items-center">
+                             <div class="award-icon"><img src="assets/img/icon/award-2-icon-1.svg" alt=""></div>
+                             <h3 class="award-title">Road Accident Fund claims</h3></div>
+                     </div>
+                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">Road Accident Fund (RAF) claims are an important provision in the Road Accident Fund Act that aims to provide financial assistance to individuals who have been injured or have lost family members due to accidents involving motor vehicles.</p></div>
+                     <div class="col-xxl-2 col-xl-2 col-lg-2 order-3 order-lg-2 text-center text-lg-end"><a href="#"
+                                                                                                            class="award-btn"><i
+                                 class="fa-light fa-arrow-right-long"></i></a></div>
                  </div>
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_2.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_2.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Corporate Law</a>
-                             </h3>
-                             <p class="box-text">Legal advocacy for diverse and the of Conducting in-depth think and
-                                 reviewing evidence filing bail of and.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
+             </div>
+             <div class="award-item">
+                 <div class="award-bg"><img src="assets/img/award/award-2-1-bg.jpg" alt=""></div>
+                 <div class="row gx-0 align-items-center z-index-2">
+                     <div class="col-xxl-5 col-xl-4 col-lg-4 order-1 order-lg-0">
+                         <div class="award-title-box d-lg-flex align-items-center">
+                             <div class="award-icon"><img src="assets/img/icon/award-2-icon-2.svg" alt=""></div>
+                             <h3 class="award-title">Property Transfers</h3></div>
+                     </div>
+                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">Property transfers, a cornerstone of real estate transactions, encompass the legal process of conveying ownership rights from one party to another. This can occur through various means, including sales, donations, inheritances, and even court orders.</p></div>
+                     <div class="col-xxl-2 col-xl-2 col-lg-2 order-3 order-lg-2 text-center text-lg-end"><a href="#"
+                                                                                                            class="award-btn"><i
+                                 class="fa-light fa-arrow-right-long"></i></a></div>
                  </div>
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_3.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_3.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Family Law</a>
-                             </h3>
-                             <p class="box-text">Expert defense strategies for variety of criminal cases. Comprehensive
-                                 evidence case analysis and in hearings.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
+             </div>
+             <div class="award-item">
+                 <div class="award-bg"><img src="assets/img/award/award-2-1-bg.jpg" alt=""></div>
+                 <div class="row gx-0 align-items-center z-index-2">
+                     <div class="col-xxl-5 col-xl-4 col-lg-4 order-1 order-lg-0">
+                         <div class="award-title-box d-lg-flex align-items-center">
+                             <div class="award-icon"><img src="assets/img/icon/award-2-icon-3.svg" alt=""></div>
+                             <h3 class="award-title">Administration of deceased estates</h3></div>
+                     </div>
+                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">OThe administration of deceased estates is a complex legal process that involves the collecting, managing and distribution of a deceased person's assets according to their will, or if no will exists, according to the Intestate Succession Act.</p></div>
+                     <div class="col-xxl-2 col-xl-2 col-lg-2 order-3 order-lg-2 text-center text-lg-end"><a href="#"
+                                                                                                            class="award-btn"><i
+                                 class="fa-light fa-arrow-right-long"></i></a></div>
                  </div>
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_4.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_4.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Real Estate
-                                     Law</a></h3>
-                             <p class="box-text">Representation in numerous criminal matters, including detailed invest.
-                                 Assistance with bail procedures eval.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
-                 </div>
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_5.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_5.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Personal Injury
-                                     Law</a></h3>
-                             <p class="box-text">Professional legal defense for different types of criminal accusations.
-                                 Careful examination of case details.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
-                 </div>
-                 <div class="col-xl-4 col-md-6">
-                     <div class="service-card">
-                         <div class="shape-mockup service_card-bg-1"><img src="assets/img/bg/service_card-bg-1_6.png"
-                                                                          alt="shape img"></div>
-                         <div class="box-icon"><img src="assets/img/icon/service_card_1_6.svg" alt="Icon"></div>
-                         <div class="box-content"><h3 class="box-title"><a href="service-details.html">Health Care
-                                     Policy</a></h3>
-                             <p class="box-text">Skilled advocacy for individuals facing various criminal charges. Invest
-                                 support and prepare of bail motions.</p></div>
-                         <a href="service-details.html" class="link-btn">Read More <i
-                                 class="fa-regular fa-arrow-right-long"></i></a></div>
+             </div>
+             <div class="award-item">
+                 <div class="award-bg"><img src="assets/img/award/award-2-1-bg.jpg" alt=""></div>
+                 <div class="row gx-0 align-items-center z-index-2">
+                     <div class="col-xxl-5 col-xl-4 col-lg-4 order-1 order-lg-0">
+                         <div class="award-title-box d-lg-flex align-items-center">
+                             <div class="award-icon"><img src="assets/img/icon/award-2-icon-4.svg" alt=""></div>
+                             <h3 class="award-title">Medical negligence</h3></div>
+                     </div>
+                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">Medical negligence, a serious breach of trust between healthcare providers and patients, occurs when a medical professional fails to provide the standard of care reasonably expected in their field, resulting in harm to the patient.</p></div>
+                     <div class="col-xxl-2 col-xl-2 col-lg-2 order-3 order-lg-2 text-center text-lg-end"><a href="#"
+                                                                                                            class="award-btn"><i
+                                 class="fa-light fa-arrow-right-long"></i></a></div>
                  </div>
              </div>
          </div>
      </div>
- </section>
-
+ </div>
  <div class="overflow-hidden space bg-white gallery-sec-3" id="case-study-sec">
      <div class="container">
          <div class="row justify-content-center">
