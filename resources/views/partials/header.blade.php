@@ -3,7 +3,7 @@
         <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
         <div class="widget">
             <div class="th-widget-about">
-                <div class="about-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Ensaf-html"></a></div>
+                <div class="about-logo"><a href="index.html"><img src="assets/img/mnia_lo.png" alt="Ensaf-html"></a></div>
                 <p class="about-text">We provide specialized winterization services to safeguard your pool during the
                     off-season, and when spring arrives, we handle the thorough opening process.</p>
                 <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a
@@ -58,25 +58,20 @@
 <div class="th-menu-wrapper">
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-        <div class="mobile-logo"><a href="index.html"><img src="assets/img/logo.svg" alt="Ensaf-html"></a></div>
+        <div class="mobile-logo"><a href="index.html"><img src="assets/img/mnia_lo.png" alt="Ensaf-html"></a></div>
         <div class="th-mobile-menu">
             <ul>
-                <li ><a href="index.html">Home</a>
+                <li ><a href="#home">Home</a>
 
                 </li>
-                <li ><a href="#">About Us</a>
+                <li ><a href="#about">About Us</a>
 
                 </li>
-                <li ><a href="#">Service</a>
+                <li ><a href="#services">Service</a>
 
                 </li>
-                <li ><a href="#">Pages</a>
 
-                </li>
-                <li ><a href="#">Blog</a>
-
-                </li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
     </div>
@@ -88,28 +83,26 @@
             <div class="container th-container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-auto">
-                        <div class="header-logo"><a href="index.html"><img src="assets/img/logo-white-2.svg"
+                        <div class="header-logo"><a href="index.html"><img src="assets/img/mnia_lo.png"
                                                                            alt="Ensaf-html"></a></div>
                     </div>
                     <div class="col-auto">
                         <nav class="main-menu d-none d-lg-inline-block">
                             <ul>
-                                <li ><a href="index.html">Home</a>
+                                <li ><a href="#home">Home</a>
 
                                 </li>
-                                <li ><a href="#">About Us</a>
+                                <li ><a href="#about">About Us</a>
 
                                 </li>
-                                <li ><a href="#">Service</a>
+                                <li ><a href="#services">Service</a>
 
                                 </li>
-                                <li ><a href="#">Pages</a>
+                                <li ><a href="#case-study">Cases</a>
 
                                 </li>
-                                <li ><a href="#">Blog</a>
 
-                                </li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#contact">Contact</a></li>
                             </ul>
                         </nav>
                         <button type="button" class="th-menu-toggle d-block d-lg-none"><i class="far fa-bars"></i>

@@ -2,7 +2,7 @@
 @section("content")
 
 
- <div class="th-hero-wrapper hero-1" id="hero">
+ <div class="th-hero-wrapper hero-1" id="home">
         <div class="shape-mockup hero-img-shape-1">
             <div class="logo-icon-wrap">
                 <div class="logo-icon"><img src="assets/img/icon/logo-icon.png" alt="img"></div>
@@ -11,8 +11,8 @@
         </div>
      <div class="th-hero-bg"
           style="border-radius: 10px; margin: 10px 10px 0 10px; overflow: hidden;"
-          data-bg-src="assets/img/bg/hero_bg_1_1.jpg">
-         <img src="assets/img/bg/hero1-overlay.png" alt="Hero overlay" >
+          data-bg-src="assets/img/bg/mnia_bg.png">
+{{--         <img src="assets/img/bg/hero1-overlay.png" alt="Hero overlay" >--}}
      </div>
         <div class="hero-1-scroll-icon-bg-shape scroll-down">
             <div class="hero-1-scroll-icon-wrap"><a href="#about-sec">
@@ -28,17 +28,16 @@
                         <div class="container">
                             <div class="row gy-4 align-items-center">
                                 <div class="col-xl-7 col-lg-7">
-                                    <span class="sub-title" data-ani="slideinup"
+                                    <span class="hero-text" data-ani="slideinup"
                                           data-ani-delay="0.2s">Your Guardian in Law</span>
                                     <div data-ani="slideinup" data-ani-delay="0.4s">
-                                        <h1 class="hero-title">Experienced
-                                            Attorneys, Trusted</h1>
-                                        <p class="hero-text">Consultants offer guidance on a wide range of legal issues, including contract
-                                            drafting, litigation, compliance, and regulatory matters.</p>
+                                        <h4 class="hero-title">Justice for Your Road Accident Claim. </h4>
+{{--                                        <p class="hero-text">Majibana Nhuku Incorporated Attorneys is your dedicated legal partner — delivering expert representation, clear guidance, and peace of mind when it matters most.</p>--}}
+                                        <p class="hero-text">At Majibana Nhuku Incorporated Attorneys, we stand by your side to ensure you get the compensation you deserve — with compassion, clarity, and commitment.</p>
 
                                     </div>
 
-                                    <div class="btn-group justify-content-center"><a href="contact.html" class="th-btn">Request Case Evaluation <i
+                                    <div class="btn-group justify-content-center"><a href="" class="th-btn">Request Case Evaluation <i
                                                 class="fa-regular fa-arrow-right-long"></i></a>
                                         <a href="about.html"
                                            class="th-btn style3">Explore Practice Areas <i
@@ -64,7 +63,7 @@
                                 <div class="col-xl-5 col-lg-5">
                                     <div class="hero-img">
                                         <div class="img-main" data-ani="slideinrighthero" data-ani-delay="0.8s"><img
-                                                src="assets/img/hero/hero_1_1.png" alt="Image"></div>
+                                                src="assets/img/hero/hero-2-right-main.jpg" alt="Image"></div>
                                     </div>
                                 </div>
                             </div>
@@ -153,7 +152,7 @@
 
 
 
- <div class="about-1-wrapper space bg-white" id="about-sec">
+ <div class="about-1-wrapper space bg-white" id="about">
 {{--     <div class="shape-mockup jump" data-left="0%" data-bottom="0%"><img src="assets/img/shape/about1-left-shape.png"--}}
 {{--                                                                         alt="image"></div>--}}
 {{--     <div class="shape-mockup jump" data-top="11%" data-right="4%"><img src="assets/img/shape/about1-right-top.png"--}}
@@ -183,9 +182,8 @@
              </div>
              <div class="col-xl-5">
                  <div class="title-area mb-25"><span class="sub-title before-none">About Us</span>
-                     <h2 class="sec-title">A Legacy of Legal Excellence</h2>
-                     <p class="sec-text">Our team of experienced attorneys has a diverse range of expe rtise, covering a
-                         wide spectrum of legal areas. We specialize in corporate law, family law.</p></div>
+                     <h4 class="sec-title">Your Trusted RAF Claims & Settlements Partner</h4>
+                     <p class="sec-text">We understand that navigating the legal landscape can be daunting, especially when it comes to road accident claims and settlements. That’s why our dedicated team of legal experts is here to guide you through every step of the process, ensuring that you receive the compensation you deserve.</p></div>
                  <div class="checklist style2 mb-40">
                      <ul>
                          <li><i class="fa-sharp fa-solid fa-circle-check"></i> Committed to excellence in legal practice.
@@ -199,7 +197,7 @@
                          </li>
                      </ul>
                  </div>
-                 <div><a href="about.html" class="th-btn style4">More About <i
+                 <div><a href="" class="th-btn style4">More About <i
                              class="fa-regular fa-arrow-right-long"></i></a></div>
              </div>
          </div>
@@ -207,12 +205,12 @@
  </div>
 
 
- <div class="award-2-wrapper space bg-smoke2" id="service-sec">
+ <div class="award-2-wrapper space bg-smoke2" id="services">
      <div class="container">
          <div class="row justify-content-center">
              <div class="col-xl-7">
                  <div class="title-area mb-55 text-center"><span class="sub-title before-none">What We Do</span>
-                     <h2 class="sec-title">Law Services We Offer</h2></div>
+                     <h4 class="sec-title">Law Services We Offer</h4></div>
              </div>
          </div>
          <div class="award-2-wrapper">
@@ -275,12 +273,12 @@
          </div>
      </div>
  </div>
- <div class="overflow-hidden space bg-white gallery-sec-3" id="case-study-sec">
+ <div class="overflow-hidden space bg-white gallery-sec-3" id="case-study">
      <div class="container">
          <div class="row justify-content-center">
              <div class="col-xl-9 col-lg-10">
                  <div class="title-area text-center"><span class="sub-title justify-content-center">Case Study</span>
-                     <h2 class="sec-title">Attoenwy Legal Excellence in Action</h2></div>
+                     <h4 class="sec-title">Attoenwy Legal Excellence in Action</h4></div>
              </div>
          </div>
          <div class="row gy-4 masonary-active">
@@ -290,7 +288,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-1.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Initial Consultation</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Initial Consultation</a></h4>
                              <p class="box-text">Family Law</p></div>
                      </div>
                  </div>
@@ -301,7 +299,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-2.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Legal Advice</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Legal Advice</a></h4>
                              <p class="box-text">Divorce Cases</p></div>
                      </div>
                  </div>
@@ -312,7 +310,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-3.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Preliminary Meeting</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Preliminary Meeting</a></h4>
                              <p class="box-text">Custody Disputes</p></div>
                      </div>
                  </div>
@@ -323,7 +321,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-4.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Client Consultation</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Client Consultation</a></h4>
                              <p class="box-text">Parental Rights</p></div>
                      </div>
                  </div>
@@ -334,7 +332,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-5.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Advice Session</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Advice Session</a></h4>
                              <p class="box-text">Child Support</p></div>
                      </div>
                  </div>
@@ -345,7 +343,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-6.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">First Meeting</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">First Meeting</a></h4>
                              <p class="box-text">Paternity Cases</p></div>
                      </div>
                  </div>
@@ -356,7 +354,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-7.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Introductory Discussion</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Introductory Discussion</a></h4>
                              <p class="box-text">Civil Unions</p></div>
                      </div>
                  </div>
@@ -367,7 +365,7 @@
                          <div class="gallery-content"><a href="assets/img/gallery/gallery-1-8.jpg"
                                                          class="popup-icon popup-image"><i
                                      class="fa-solid fa-eye"></i></a>
-                             <h2 class="box-title"><a href="case-studies-details.html">Case Consultation</a></h2>
+                             <h4 class="box-title"><a href="case-studies-details.html">Case Consultation</a></h4>
                              <p class="box-text">Marriage Contracts</p></div>
                      </div>
                  </div>
@@ -435,7 +433,7 @@
              <div class="col-xl-7 col-lg-6">
                  <div class="why-2-right">
                      <div class="title-area"><span class="sub-title after-none">Why Choose Us</span>
-                         <h2 class="sec-title">Your Trusted Advocates in the Legal Landscape</h2></div>
+                         <h4 class="sec-title">Your Trusted Advocates in the Legal Landscape</h4></div>
                  </div>
              </div>
          </div>
@@ -501,7 +499,7 @@
              <div class="col-xl-8 about-bottom-box-wrapcol-lg-10 text-center">
                  <div class="title-area process-3-title-box"><span
                          class="sub-title justify-content-center justify-content-xl-start">Schedule Consultation</span>
-                     <h2 class="sec-title mb-2">Schedule A Free Consultation</h2>
+                     <h4 class="sec-title mb-2">Schedule A Free Consultation</h4>
                      <p class="box-text">Our team of seasoned attorneys is dedicated to carefully listening to your
                          concerns, ensuring a deep understanding of your unique situation.</p></div>
              </div>
@@ -542,7 +540,7 @@
              <div class="col-xl-4">
                  <div class="team-1-sec-title">
                      <div class="title-area"><span class="sub-title">Our Attorneys</span>
-                         <h2 class="sec-title text-white">Dedicated Lawyers, Proven Results</h2>
+                         <h4 class="sec-title text-white">Dedicated Lawyers, Proven Results</h4>
                          <div class="button-wrapper"><a href="team.html" class="th-btn star-btn">More Attorney<i
                                      class="fa-regular fa-arrow-right-long"></i></a></div>
                      </div>
@@ -787,14 +785,14 @@
          <div class="row justify-content-center">
              <div class="col-xl-6">
                  <div class="title-area mb-55 text-center"><span class="sub-title before-none">Awards WIn</span>
-                     <h2 class="sec-title">Awards & Excellence</h2></div>
+                     <h4 class="sec-title">Awards & Excellence</h4></div>
              </div>
          </div>
          <div class="award-item-wrapper">
              <div class="award-item gr-bg5">
                  <div class="row align-items-center">
-                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h2 class="award-title">Recognized for Legal
-                             Excellence</h2></div>
+                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h4 class="award-title">Recognized for Legal
+                             Excellence</h4></div>
                      <div class="col-xl-5 col-lg-6 order-2 order-lg-2"><p class="award-dsc">There are numerous variations
                              of the Lorem Ipsum text, though most some form of alteration.</p></div>
                      <div class="col-xl-3 col-lg-3 order-0 order-lg-2">
@@ -806,8 +804,8 @@
              </div>
              <div class="award-item gr-bg5">
                  <div class="row align-items-center">
-                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h2 class="award-title">Honored For Legal
-                             Achievement</h2></div>
+                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h4 class="award-title">Honored For Legal
+                             Achievement</h4></div>
                      <div class="col-xl-5 col-lg-6 order-2 order-lg-2"><p class="award-dsc">There are numerous variations
                              of the Lorem Ipsum text, though most some form of alteration.</p></div>
                      <div class="col-xl-3 col-lg-3 order-0 order-lg-2">
@@ -819,8 +817,8 @@
              </div>
              <div class="award-item gr-bg5">
                  <div class="row align-items-center">
-                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h2 class="award-title">Emerging Legal<br>Star
-                         </h2></div>
+                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h4 class="award-title">Emerging Legal<br>Star
+                         </h4></div>
                      <div class="col-xl-5 col-lg-6 order-2 order-lg-2"><p class="award-dsc">There are numerous variations
                              of the Lorem Ipsum text, though most some form of alteration.</p></div>
                      <div class="col-xl-3 col-lg-3 order-0 order-lg-2">
@@ -832,8 +830,8 @@
              </div>
              <div class="award-item gr-bg5">
                  <div class="row align-items-center">
-                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h2 class="award-title">Award-Winning Legal
-                             Excellence</h2></div>
+                     <div class="col-xl-4 col-lg-3 order-1 order-lg-0"><h4 class="award-title">Award-Winning Legal
+                             Excellence</h4></div>
                      <div class="col-xl-5 col-lg-6 order-2 order-lg-2"><p class="award-dsc">There are numerous variations
                              of the Lorem Ipsum text, though most some form of alteration.</p></div>
                      <div class="col-xl-3 col-lg-3 order-0 order-lg-2">
@@ -851,7 +849,7 @@
          <div class="row justify-content-lg-between justify-content-center align-items-end">
              <div class="col-lg">
                  <div class="title-area text-center text-lg-start"><span class="sub-title before-none">Client Testimonials</span>
-                     <h2 class="sec-title">What Our Clients Say</h2></div>
+                     <h4 class="sec-title">What Our Clients Say</h4></div>
              </div>
              <div class="col-lg-auto">
                  <div class="sec-btn">
@@ -982,7 +980,7 @@
          <div class="row gy-60 gx-60 justify-content-center">
              <div class="col-lg-6">
                  <div class="title-area"><span class="sub-title before-none">Frequently Asked Questions</span>
-                     <h2 class="sec-title">Have Any Questions?</h2></div>
+                     <h4 class="sec-title">Have Any Questions?</h4></div>
                  <div class="accordion" id="faqAccordion">
                      <div class="accordion-card">
                          <div class="accordion-header" id="collapse-item-1">
@@ -1050,7 +1048,7 @@
          </div>
      </div>
  </div>
- <section class=" overflow-hidden" id="contact-sec">
+ <section class=" overflow-hidden" id="contact">
      <div class="shape-mockup jump d-none d-xl-block" data-top="15%" data-right="3%"><img
              src="assets/img/shape/contact-1-top.png" alt="shape img"></div>
      <div class="shape-mockup jump-reverse d-none d-xl-block" data-bottom="17%" data-left="3%"><img

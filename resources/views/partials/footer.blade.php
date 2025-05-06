@@ -10,10 +10,11 @@
                 <div class="col-md-6 col-xl-4 footer-border-right">
                     <div class="widget footer-widget">
                         <div class="th-widget-about">
-                            <div class="about-logo"><a href="index.html"><img src="assets/img/logo-white.svg"
+                            <div class="about-logo"><a href="index.html"><img src="assets/img/mnia_lo.png"
                                                                               alt="Ensaf-html"></a></div>
-                            <p class="about-text">Ensaf is a Saudi Arabian law firm founded in 1982. They offer a wide
-                                range of legal services, including corporate law, commercial law.</p>
+                            <p class="about-text">At Majibana Nhuku Incorporated Attorneys, we understand that legal challenges are personal. That’s why we take the time to listen, guide you with compassion, and stand by your side — every step of the way.
+
+                               </p>
                             <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a
                                     href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a
@@ -26,10 +27,10 @@
                         <div class="menu-all-pages-container">
                             <ul class="menu">
                                 <li><a href="about.html">About Us</a></li>
-                                <li><a href="blog.html">Our Blog</a></li>
+
                                 <li><a href="team.html">Our Team</a></li>
                                 <li><a href="contact.html">Contact Us</a></li>
-                                <li><a href="pricing.html">Pricing Plans</a></li>
+
                                 <li><a href="testimonials.html">Testimonials</a></li>
                             </ul>
                         </div>
@@ -39,12 +40,11 @@
                     <div class="widget widget_nav_menu footer-widget"><h3 class="widget_title">Our Services</h3>
                         <div class="menu-all-pages-container">
                             <ul class="menu">
-                                <li><a href="service-details.html">Real Estate Law</a></li>
-                                <li><a href="service-details.html">Personal Injury</a></li>
-                                <li><a href="service-details.html">Corporate Law</a></li>
-                                <li><a href="service-details.html">Criminal Law</a></li>
-                                <li><a href="service-details.html">Health Care</a></li>
-                                <li><a href="service-details.html">Family Law</a></li>
+                                <li><a href="service-details.html">Road Accident Fund Claims</a></li>
+                                <li><a href="service-details.html">Property Transfers</a></li>
+                                <li><a href="service-details.html">Administration of Deceased Estates</a></li>
+                                <li><a href="service-details.html">Medical Negligence</a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                                                                placeholder="Email Address" required=""></div>
                                 <button type="submit" class="icon-btn"><i class="fa-solid fa-paper-plane"></i></button>
                             </form>
-                            <p class="footer-text">*Call us 24/7 at + 152-6485-5467</p></div>
+                            <p class="footer-text">*Call us 24/7 at +27214221296</p></div>
                     </div>
                 </div>
             </div>
@@ -67,8 +67,12 @@
     <div class="copyright-wrap">
         <div class="container">
             <div class="row gy-2 align-items-center">
-                <div class="col-md-12"><p class="copyright-text text-center">Copyright <i class="fal fa-copyright"></i>
-                        2025 <a href="index.html">Ensaf</a>. All Rights Reserved.</p></div>
+                <div class="col-md-12"><p class="copyright-text text-center">Copyright ©<script>document.write(new Date().getFullYear());</script>
+                       - M&N Attorneys | All Rights Reserved | <a style="color: white" href="https://shifttechgs.com/">Powered By ShiftTech</a>.</p>
+
+
+
+                </div>
             </div>
         </div>
     </div>
