@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>MNIA - M & N Attorneys </title>
-    <meta name="author" content="Ensaf">
-    <meta name="description" content="Ensaf-html - Law Agency HTML Template">
-    <meta name="keywords" content="Ensaf-html - Law Agency HTML Template">
+    <meta name="author" content="MNIA">
+    <meta name="description" content="MNIA - M & N Attorneys ">
+    <meta name="keywords" content="MNIA - M & N Attorneys">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicons/apple-icon-57x57.png">
