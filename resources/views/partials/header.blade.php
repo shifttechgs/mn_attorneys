@@ -4,57 +4,25 @@
         <div class="widget">
             <div class="th-widget-about">
                 <div class="about-logo"><a href="index.html"><img src="assets/img/mnia_lo.png" alt="Ensaf-html"></a></div>
-                <p class="about-text">We provide specialized winterization services to safeguard your pool during the
-                    off-season, and when spring arrives, we handle the thorough opening process.</p>
+                <p class="about-text">At Majibana Nhuku Incorporated Attorneys, we stand by your side to ensure you get the compensation you deserve — with compassion, clarity, and commitment.</p>
+                <div class="btn-group justify-content-center">
+                    <a href="#contact" class="th-btn">Request Case Evaluation <i
+                            class="fa-regular fa-arrow-right-long"></i></a>
+                    <a href="#contact"></a></div><br><br>
                 <div class="th-social"><a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a
                         href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a
                         href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a
                         href="https://www.whatsapp.com/"><i class="fab fa-whatsapp"></i></a></div>
             </div>
         </div>
-        <div class="widget"><h3 class="widget_title">Recent Posts</h3>
-            <div class="recent-post-wrap">
-                <div class="recent-post">
-                    <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg"
-                                                                            alt="Blog Image"></a></div>
-                    <div class="media-body"><h4 class="post-title"><a class="text-inherit" href="blog-details.html">Steps
-                                to Pursue a Career as a Legal Project Manager.</a></h4>
-                        <div class="recent-post-meta"><a href="blog.html">6 Sep, 2025</a></div>
-                    </div>
-                </div>
-                <div class="recent-post">
-                    <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg"
-                                                                            alt="Blog Image"></a></div>
-                    <div class="media-body"><h4 class="post-title"><a class="text-inherit" href="blog-details.html">The
-                                advantages of choosing a public defender.</a></h4>
-                        <div class="recent-post-meta"><a href="blog.html">6 Sep, 2025</a></div>
-                    </div>
-                </div>
-                <div class="recent-post">
-                    <div class="media-img"><a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg"
-                                                                            alt="Blog Image"></a></div>
-                    <div class="media-body"><h4 class="post-title"><a class="text-inherit" href="blog-details.html">Technology
-                                is revolutionizing the legal sector.</a></h4>
-                        <div class="recent-post-meta"><a href="blog.html">6 Sep, 2025</a></div>
-                    </div>
-                </div>
-            </div>
+        <div class="widget">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.6781715997045!2d18.41610337644222!3d-33.923681621904755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc6765ad3605df%3A0xfae9f097bf7f92d4!2s28%20Wale%20St%2C%20Cape%20Town%20City%20Centre%2C%20Cape%20Town%2C%208000!5e0!3m2!1sen!2sza!4v1747567761665!5m2!1sen!2sza" width="600" height="300" style="radius:10px; border-radius:10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-        <div class="widget newsletter-widget"><h3 class="widget_title">Newsletter</h3>
-            <p class="footer-text">Sign up to get update news about us</p>
-            <form class="newsletter-form"><input class="form-control" type="email" placeholder="Enter Email"
-                                                 required="">
-                <button type="submit" class="th-btn style2">Subscribe</button>
-            </form>
-        </div>
+
+
     </div>
 </div>
-<div class="popup-search-box d-none d-lg-block">
-    <button class="searchClose"><i class="fal fa-times"></i></button>
-    <form action="#"><input type="text" placeholder="What are you looking for?">
-        <button type="submit"><i class="fal fa-search"></i></button>
-    </form>
-</div>
+
 <div class="th-menu-wrapper">
     <div class="th-menu-area text-center">
         <button class="th-menu-toggle"><i class="fal fa-times"></i></button>

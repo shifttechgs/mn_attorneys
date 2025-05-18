@@ -1,7 +1,7 @@
 @use "sass:math"; :root {
                       --theme-color: rgba(4, 66, 91, 0.41);
                       --theme-color2: #314E52;
-                      --title-color: #011C1A;
+                      --title-color: #314E52;
                       --body-color: #868686;
                       --smoke-color: #FFF6EE;
                       --smoke-color2: #F5F5F5;
@@ -8573,7 +8573,8 @@ ul.comment-list .th-comment-item:has(.children) .th-post-comment {
     background: var(--white-color);
     padding: 1px;
     border-radius: 0 100px 0 100px;
-    margin-right: 18px
+    margin-right: 18px;
+
 }
 
 .hero-1 .hero-img .img-main::before {
@@ -12596,6 +12597,7 @@ span.select2-selection.select2-selection--single:focus {
 .contact-img {
     margin-top: 70px;
     border-radius: 24px
+
 }
 
 @media (max-width: 767px) {
@@ -12959,10 +12961,10 @@ span.select2-selection.select2-selection--single:focus {
 .img-box1.about-1 .img1:before {
     content: "";
     position: absolute;
-    height: 98%;
+    height: 80%;
     width: 100%;
-    left: -24px;
-    top: -24px;
+    left: -14px;
+    top: -14px;
     border: 1px solid var(--theme-color2);
     border-radius: 90px 0 100px 100px;
     z-index: -1
@@ -12988,11 +12990,12 @@ span.select2-selection.select2-selection--single:focus {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    gap: 24px
+    gap: 10px
 }
 
 .img-box1.about-1 .img2 img {
-    border-radius: 100px 100px 100px 0
+    border-radius:100px 100px 100px 0;
+
 }
 
 .img-box1.about-1 .img2 .img2-bottom img {

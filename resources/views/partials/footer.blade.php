@@ -1,4 +1,4 @@
-<footer class="footer-wrapper space-top footer-default bg-footer-color">
+<footer class="footer-wrapper ">
     <div class="shape-mockup jump d-none d-xxl-block" data-right="0%" data-bottom="0%"><img
             src="assets/img/shape/footer-default-right.png" alt="shape"></div>
     <div class="shape-mockup jump d-none d-xxl-block" data-left="0%" data-bottom="0%"><img
