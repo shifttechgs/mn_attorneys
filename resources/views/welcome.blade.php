@@ -43,11 +43,12 @@
                                         <a href="#contact"
                                            class="th-btn style3">Explore Practice Areas <i
                                                 class="fa-regular fa-arrow-right-long"></i></a></div><br><br>
-                                    <div class="client-group-wrap"><span class="thumb"><img src="assets/img/icon/hero-1-title-1.png"
-                                                                                            alt="img"></span>
+                                    <div class="client-group-wrap">
+{{--                                        <span class="thumb"><img src="assets/img/icon/hero-1-title-1.png"--}}
+{{--                                                                                            alt="img"></span>--}}
                                         <div class="client-group-wrap__content"><span
                                                 class="client-group-wrap__box-title">We have to <span><span
-                                                        class="counter-number">2</span>k+</span> Happy Client</span>
+                                                        class="counter-number">500</span>+</span> Happy Client</span>
                                             <div class="client-group-wrap__box-review"><i class="fa-sharp fa-solid fa-star"></i> <i
                                                     class="fa-sharp fa-solid fa-star"></i> <i class="fa-sharp fa-solid fa-star"></i> <i
                                                     class="fa-sharp fa-solid fa-star"></i> <i class="fa-sharp fa-solid fa-star"></i>
@@ -64,7 +65,7 @@
                                 <div class="col-xl-5 col-lg-5">
                                     <div class="hero-img">
                                         <div class="img-main" data-ani="slideinrighthero" data-ani-delay="0.8s"><img
-                                                src="assets/img/mnia/DSC05971.jpg" alt="Image"></div>
+                                                src="assets/img/hero/happy_client.jpg" alt="Image"></div>
                                     </div>
                                 </div>
                             </div>
