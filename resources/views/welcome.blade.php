@@ -64,7 +64,7 @@
                                 <div class="col-xl-5 col-lg-5">
                                     <div class="hero-img">
                                         <div class="img-main" data-ani="slideinrighthero" data-ani-delay="0.8s"><img
-                                                src="assets/img/hero/happy_client.jpg" alt="Image"></div>
+                                                src="assets/img/mnia/DSC05971.jpg" alt="Image"></div>
                                     </div>
                                 </div>
                             </div>
