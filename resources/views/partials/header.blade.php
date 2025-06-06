@@ -38,6 +38,9 @@
                 <li ><a href="#services">Service</a>
 
                 </li>
+                <li ><a href="#faq-sec">Faq</a>
+
+                </li>
 
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -66,7 +69,7 @@
                                 <li ><a href="#services">Service</a>
 
                                 </li>
-                                <li ><a href="#case-study">Cases</a>
+                                <li ><a href="#faq-sec">Faq</a>
 
                                 </li>
 
@@ -80,7 +83,7 @@
                         <div class="header-button">
                             <button type="button" class="icon-btn searchBoxToggler"><i class="far fa-search"></i>
                             </button>
-                            <a href="contact.html" class="th-btn">Request Case Evaluation <i
+                            <a href="#contact" class="th-btn">Request Case Evaluation <i
                                     class="fa-regular fa-arrow-right-long"></i></a>
                             <button type="button" class="icon-btn sideMenuInfo"><i class="far fa-bars"></i></button>
                         </div>

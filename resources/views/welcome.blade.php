@@ -40,7 +40,7 @@
                                     <div class="btn-group justify-content-center">
                                         <a href="#contact" class="th-btn">Request Case Evaluation <i
                                                 class="fa-regular fa-arrow-right-long"></i></a>
-                                        <a href="#contact"
+                                        <a href="#services"
                                            class="th-btn style3">Explore Practice Areas <i
                                                 class="fa-regular fa-arrow-right-long"></i></a></div><br><br>
                                     <div class="client-group-wrap">
