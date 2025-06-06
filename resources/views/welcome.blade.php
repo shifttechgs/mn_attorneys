@@ -170,8 +170,8 @@
              </div>
              <div class="col-xl-6">
                  <div class="title-area mb-25"><span class="sub-title before-none">About Us</span>
-                     <h4 class="sec-title">Your Trusted RAF Claims & Settlements Partner</h4>
-                     <p class="sec-text">We understand that navigating the legal landscape can be daunting, especially when it comes to road accident claims and settlements. That’s why our dedicated team of legal experts is here to guide you through every step of the process, ensuring that you receive the compensation you deserve.</p></div>
+                     <h4 class="sec-title">Your Trusted RAF Claims Attorneys</h4>
+                     <p class="sec-text">We understand that navigating the legal landscape can be daunting, especially when it comes to road accident fund claims. That’s why our dedicated team of legal experts is here to guide you through every step of the process, ensuring that you receive the compensation you deserve.</p></div>
                  <div class="checklist style2 mb-40">
                      <ul>
                          <li><i class="fa-sharp fa-solid fa-circle-check"></i> Committed to excellence in legal practice.
@@ -179,8 +179,8 @@
                          <li><i class="fa-sharp fa-solid fa-circle-check"></i> Act with honesty and uphold ethical
                              principles.
                          </li>
-                         <li><i class="fa-sharp fa-solid fa-circle-check"></i> Road Test Preparation with 98% success
-                         </li>
+{{--                         <li><i class="fa-sharp fa-solid fa-circle-check"></i> Road Test Preparation with 98% success--}}
+{{--                         </li>--}}
                          <li><i class="fa-sharp fa-solid fa-circle-check"></i> Meeting clients' needs is our priority.
                          </li>
                      </ul>
@@ -238,7 +238,7 @@
                              <div class="award-icon"><img src="assets/img/icon/award-2-icon-3.svg" alt=""></div>
                              <h3 class="award-title">Administration of deceased estates</h3></div>
                      </div>
-                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">OThe administration of deceased estates is a complex legal process that involves the collecting, managing and distribution of a deceased person's assets according to their will, or if no will exists, according to the Intestate Succession Act.</p></div>
+                     <div class="col-xxl-5 col-xl-6 col-lg-6 order-2 order-lg-2"><p class="award-dsc">The administration of deceased estates is a complex legal process that involves the collecting, managing and distribution of a deceased person's assets according to their will, or if no will exists, according to the Intestate Succession Act.</p></div>
                      <div class="col-xxl-2 col-xl-2 col-lg-2 order-3 order-lg-2 text-center text-lg-end"><a href="#contact"
                                                                                                             class="award-btn"><i
                                  class="fa-light fa-arrow-right-long"></i></a></div>
@@ -972,13 +972,13 @@
                              <div class="info-box_icon"><i class="fa-regular fa-phone"></i></div>
                              <div class="info-contnt"><h4 class="footer-info-title">Phone</h4>
                                  <p class="info-box_text"><a href="tel:0214221296" class="info-box_link">
-                                         021 422 1296</a><a href="tel:+2780180102" class="info-box_link">
-                                         +27 80180 102</a></p></div>
+                                         021 422 1296</a><a href="tel:+27780180102" class="info-box_link">
+                                         +27 780180 102</a></p></div>
                          </div>
                          <div class="info-box">
                              <div class="info-box_icon"><i class="fa-regular fa-envelope"></i></div>
                              <div class="info-contnt"><h4 class="footer-info-title">Email</h4>
-                                 <p class="info-box_text"><a href="mailto:info@majibananhukuattorneys.co.za" class="info-box_link">info@majibananhukuattorneys.co.za
+                                 <p class="info-box_text"><a href="mailto:info@mnattorneys.capetown" class="info-box_link">info@mnattorneys.capetown
                                      </a>
                                    </p></div>
                          </div>
